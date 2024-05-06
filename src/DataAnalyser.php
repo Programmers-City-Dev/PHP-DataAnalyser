@@ -1,6 +1,6 @@
 <?php
 
-namespace ProcityDev\DataAnalyser;
+namespace ProcityDev\PhpDataAnalyser;
 
 class DataAnalyser {
     
