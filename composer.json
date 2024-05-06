@@ -1,0 +1,19 @@
+{
+    "name": "procity-dev/php-data-analyser",
+    "description": "A PHP Library for Data Analysis and Data Cleaning",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ProcityDev\\PhpDataAnalyser\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "destinybravos",
+            "email": "destinybravos@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
